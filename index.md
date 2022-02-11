@@ -17,3 +17,9 @@ After using ```ssh``` to get onto the ieng6 server, we change the directory to t
 
 **Combining commands to copy and run in one line**
 
+![Image](p9.png)
+![Image](p10.png)
+
+By combining the ```scp```,```;```, ```javac```, and ```java``` calls, we are able to copy the file onto the ieng6 server, compile, and 
+run it in one commnad. Since the output was so long, two images are provided to show all of what is outputted. The result at the end is 
+the same as the previous part, where there are two intentional failures in the tests. 
